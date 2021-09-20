@@ -1,10 +1,4 @@
-# Squirrel
-IDP - squirrel chaos
-hi
-__yeet__
-***hi***
+# Covid Statistics
 
->hello
->>
->moo
+
 
