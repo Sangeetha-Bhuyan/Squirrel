@@ -9,16 +9,15 @@
 
  
  **DEATHS**
- >![Global Covid Deaths](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/b7a6a112-0329-4c77-95e8-db0603b6a7f0/gr1_lrg.jpg)
+ >![Global Covid Deaths](https://user-images.githubusercontent.com/90335923/134399305-09ab0067-7b46-4376-8244-da99e9346a34.jpeg)
  
  **VACCINATIONS**
  >![Global Covid Vaccinations](https://content.fortune.com/wp-content/uploads/2021/06/vaccine_map_063021-01.png)
 ## Covid Statistics *(USA)*
   **CASES**
->![USA Covid Cases](https://www.statnews.com/wp-content/uploads/2021/07/covid-cases-us.png)
-
+>![USA Covid Cases](https://user-images.githubusercontent.com/90335923/134399671-e5c8f86b-db10-4acb-b101-502c26fe7049.jpeg)
  **DEATHS**
->![USA Covid Deaths](http://cdn.statcdn.com/Infographic/images/normal/22427.jpeg)
+>![USA Covid Deaths](https://user-images.githubusercontent.com/90335923/134399734-6384b086-5e78-444c-985d-183275f96081.jpeg)
 
   **VACCINATIONS**
  >![USA Covid Vaccinations](https://content.fortune.com/wp-content/uploads/2021/07/vaccine_map_070221-02.png?w=810)
@@ -31,7 +30,7 @@
  **DEATHS**
  >![PA Covid Deaths](https://user-images.githubusercontent.com/90335923/134388309-aeb63f7f-be92-4310-ba2e-977ef239bc0f.jpeg)
 
- **Vaccinations**
+ **VACCINATIONS**
  >![PA Covid Vaccinations](https://user-images.githubusercontent.com/90335923/134388080-36d10dcf-c8de-4cb2-9043-647fc8b72144.jpeg)
 
 
@@ -42,10 +41,14 @@
  **DEATHS**
  >![MC Covid Deaths](![3AEE52D8-0AF5-4305-9ADE-BB9A8EBC7D2B](https://user-images.githubusercontent.com/90335923/134387403-7890f201-a5c3-458d-9db0-617dffb56fde.jpeg)
 
- **Vaccinations**
+**VACCINATIONS**
  >![MC Covid Vac](https://www.montcopa.org/ImageRepository/Document?documentId=32687)
 
 *Citations*
 https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx 
+>
 https://www.montgomerycountymd.gov/covid19/data/case-counts.html#confirmed-cases
-https://covid19.who.int/
+>
+https://covid19.who.int
+>
+https://www.montcopa.org/9/COVID-19
