@@ -39,7 +39,7 @@
   >![MC Covid Cases](https://www.woodlandsonline.com/images/newsimage/71000/1.jpg)
 
  **DEATHS**
- >![MC Covid Deaths](![3AEE52D8-0AF5-4305-9ADE-BB9A8EBC7D2B](https://user-images.githubusercontent.com/90335923/134387403-7890f201-a5c3-458d-9db0-617dffb56fde.jpeg)
+ >![MC Covid Deaths](https://user-images.githubusercontent.com/90335923/134387403-7890f201-a5c3-458d-9db0-617dffb56fde.jpeg)
 
 **VACCINATIONS**
  >![MC Covid Vac](https://www.montcopa.org/ImageRepository/Document?documentId=32687)
