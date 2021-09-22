@@ -2,31 +2,34 @@
 > _**A summary of a global pandemic**_ 
 
 ## Covid Statistics *(Global)*
- > **Cases**
- >> ![Global Covid Cases](http://cdn.statcdn.com/Infographic/images/normal/25478.jpeg)
+ **CASES**
+ > ![Global Covid Cases](http://cdn.statcdn.com/Infographic/images/normal/25478.jpeg)
  
- >**Deaths**
-
- >**Vaccinations**
-
+ **DEATHS**
+ >![Global Covid Deaths](http://cdn.statcdn.com/Infographic/images/normal/24853.jpeg)
+ 
+ **VACCINATIONS**
+ >![Global Covid Vaccinations](https://content.fortune.com/wp-content/uploads/2021/06/vaccine_map_063021-01.png)
 ## Covid Statistics *(USA)*
- > **Cases**
+  **CASES**
 
- >**Deaths**
+ **DEATHS**
 
-  >**Vaccinations**
+  **Vaccinations**
 
 ## Covid Statistics *(Pennsylvania)*
-  > **Cases**
-  >> ![Covid Statistics](https://whyy.org/wp-content/uploads/2020/03/Philadelphia_23-count-1-768x459.png)
+   **CASES**
+  > ![Covid Statistics](https://whyy.org/wp-content/uploads/2020/03/Philadelphia_23-count-1-768x459.png)
 
- >**Deaths**
+ **DEATHS**
 
-  >**Vaccinations**
+ **Vaccinations**
 
 ## Covid Statistics *(Montgomery County)*
- > **Cases**
+  **CASES**
  
- >**Deaths**
+ **DEATHS**
 
-  >**Vaccinations**
+ **Vaccinations**
+
+*Citations*
