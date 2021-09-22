@@ -2,7 +2,7 @@
 > _**A summary of a global pandemic**_ 
 
 ## Covid Statistics *(Global)*
-  ![Global Covid Cases] (http://cdn.statcdn.com/Infographic/images/normal/25478.jpeg)
+  ![Global Covid Cases](http://cdn.statcdn.com/Infographic/images/normal/25478.jpeg)
 
 ## Covid Statistics *(USA)*
 
