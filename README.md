@@ -15,9 +15,10 @@
 >![USA Covid Cases](https://www.statnews.com/wp-content/uploads/2021/07/covid-cases-us.png)
 
  **DEATHS**
->![USA Death Rates](http://cdn.statcdn.com/Infographic/images/normal/22427.jpeg)
+>![USA Covid Deaths](http://cdn.statcdn.com/Infographic/images/normal/22427.jpeg)
 
-  **Vaccinations**
+  **VACCINATIONS**
+ >![USA Covid Vaccinations](https://content.fortune.com/wp-content/uploads/2021/07/vaccine_map_070221-02.png?w=810)
 
 ## Covid Statistics *(Pennsylvania)*
    **CASES**
