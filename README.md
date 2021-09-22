@@ -13,6 +13,7 @@
  
  **VACCINATIONS**
  >![Global Covid Vaccinations](https://content.fortune.com/wp-content/uploads/2021/06/vaccine_map_063021-01.png)
+
 ## Covid Statistics *(USA)*
   **CASES**
 >![USA Covid Cases](https://user-images.githubusercontent.com/90335923/134399671-e5c8f86b-db10-4acb-b101-502c26fe7049.jpeg)
