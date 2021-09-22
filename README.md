@@ -2,6 +2,7 @@
 > _**A summary of a global pandemic**_ 
 
 ## Covid Statistics *(Global)*
+  ![Global Covid Cases]
 
 ## Covid Statistics *(USA)*
 
