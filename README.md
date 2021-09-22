@@ -22,9 +22,10 @@
 
 ## Covid Statistics *(Pennsylvania)*
    **CASES**
-  > ![Covid Statistics](https://whyy.org/wp-content/uploads/2020/03/Philadelphia_23-count-1-768x459.png)
+  > ![PA Covid Statistics](https://whyy.org/wp-content/uploads/2020/03/Philadelphia_23-count-1-768x459.png)
 
  **DEATHS**
+ >![PA Covid Deaths](https://www.health.pa.gov/topics/disease/coronavirus/PublishingImages/EpiCurve%20LTCF/LTCF%20EpiCurve%204_9-21-2021.png)
 
  **Vaccinations**
 
