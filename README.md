@@ -13,7 +13,9 @@
 ## Covid Statistics *(USA)*
   **CASES**
 >![USA Covid Cases](https://www.statnews.com/wp-content/uploads/2021/07/covid-cases-us.png)
+
  **DEATHS**
+>![USA Death Rates](http://cdn.statcdn.com/Infographic/images/normal/22427.jpeg)
 
   **Vaccinations**
 
