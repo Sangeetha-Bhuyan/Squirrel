@@ -46,6 +46,7 @@
  >![MC Covid Vac](https://www.montcopa.org/ImageRepository/Document?documentId=32687)
 
 *Citations*
+
 https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx 
 >
 https://www.montgomerycountymd.gov/covid19/data/case-counts.html#confirmed-cases
