@@ -1,6 +1,13 @@
 # *COVID STATISTICS*
 > _**A summary of a global pandemic**_ 
 
+| Location         | Cases       |  Deaths    | Doses Given   | Fully Vaccinated | 
+| :-----------     |:----------- | :--------- |:--------------| :--------------
+| Global           |  229,373,963| 4,705,111  |5,776,127,976  | 2,540,000,000
+| USA              | 43,532,306  | 702,978    | 387,821,704   | 182,587,334
+| Pennsylvania     | 1,397,755   | 29,064     | 16,014,184    | 6,168,068  
+| Montgomery County|  67,247     |  1,780     | 1,360,316     | 445,605
+
 ## Covid Statistics *(Global)*
  > ![Global stats](https://user-images.githubusercontent.com/90335923/134389130-b7ca4ee6-4f81-4c3c-877b-5120db9d9a91.jpeg)
 
